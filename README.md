@@ -16,3 +16,4 @@ Topics:
 - [Simple Moving Average](notebooks/SAM.ipynb)
 - [Exponential Moving Average](notebooks/EMA.ipynb)
 - [Average Directional Index](notebooks/ADX.ipynb)
+- [Relative Strength Index](notebooks/RSI.ipynb)
