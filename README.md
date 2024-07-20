@@ -2,5 +2,5 @@
 
 Topics:
 
-- [Simple Moving Average](#Simple-Moving-Average)
+- [Simple Moving Average](#notebooks/SAM.ipynb)
 - [Exponential Moving Average](#Exponential-Moving-Average)
