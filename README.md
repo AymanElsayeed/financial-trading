@@ -17,3 +17,4 @@ Topics:
 - [Exponential Moving Average](notebooks/EMA.ipynb)
 - [Average Directional Index](notebooks/ADX.ipynb)
 - [Relative Strength Index](notebooks/RSI.ipynb)
+- [Boillinger Bands](notebooks/BBANDS.ipynb)
