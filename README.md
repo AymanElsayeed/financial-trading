@@ -13,8 +13,8 @@ Trading adventure with an introduction to technical analysis, indicators, and si
 
 Topics:
 
-- [Simple Moving Average](notebooks/SAM.ipynb)
-- [Exponential Moving Average](notebooks/EMA.ipynb)
-- [Average Directional Index](notebooks/ADX.ipynb)
-- [Relative Strength Index](notebooks/RSI.ipynb)
-- [Boillinger Bands](notebooks/BBANDS.ipynb)
+- [Simple Moving Average (SMA)](notebooks/SAM.ipynb)
+- [Exponential Moving Average (EMA)](notebooks/EMA.ipynb)
+- [Average Directional Index (ADX)](notebooks/ADX.ipynb)
+- [Relative Strength Index (RSI)](notebooks/RSI.ipynb)
+- [Boillinger Bands (BBANDS)](notebooks/BBANDS.ipynb)
