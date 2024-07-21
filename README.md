@@ -18,3 +18,6 @@ Topics:
 - [Average Directional Index (ADX)](notebooks/ADX.ipynb)
 - [Relative Strength Index (RSI)](notebooks/RSI.ipynb)
 - [Boillinger Bands (BBANDS)](notebooks/BBANDS.ipynb)
+- [Strategies](notebooks/strategies/strategies.ipynb)
+  - [SMA Based Strategy](notebooks/strategies/sma-based-strategy.ipynb)
+  - [EMA Based Strategy](notebooks/strategies/ema-based-strategy.ipynb)
