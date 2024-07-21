@@ -21,3 +21,4 @@ Topics:
 - [Strategies](notebooks/strategies/strategies.ipynb)
   - [SMA Based Strategy](notebooks/strategies/sma-based-strategy.ipynb)
   - [EMA Based Strategy](notebooks/strategies/ema-based-strategy.ipynb)
+  - [MA Crossover Strategy](notebooks/strategies/ma-crossover-strategy.ipynb)
