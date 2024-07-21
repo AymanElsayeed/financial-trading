@@ -23,3 +23,4 @@ Topics:
   - [EMA Based Strategy](notebooks/strategies/ema-based-strategy.ipynb)
   - [MA Crossover Strategy](notebooks/strategies/ma-crossover-strategy.ipynb)
   - [Mean Reversion Strategy](notebooks/strategies/mean-reversion-strategy.ipynb)
+- [Strategy optimization and benchmarking](notebooks/strategies/strategy-optimization-and-benchmarking.ipynb)
