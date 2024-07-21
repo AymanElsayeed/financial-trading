@@ -22,3 +22,4 @@ Topics:
   - [SMA Based Strategy](notebooks/strategies/sma-based-strategy.ipynb)
   - [EMA Based Strategy](notebooks/strategies/ema-based-strategy.ipynb)
   - [MA Crossover Strategy](notebooks/strategies/ma-crossover-strategy.ipynb)
+  - [Mean Reversion Strategy](notebooks/strategies/mean-reversion-strategy.ipynb)
