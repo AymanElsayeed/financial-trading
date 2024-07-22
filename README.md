@@ -24,3 +24,4 @@ Topics:
   - [MA Crossover Strategy](notebooks/strategies/ma-crossover-strategy.ipynb)
   - [Mean Reversion Strategy](notebooks/strategies/mean-reversion-strategy.ipynb)
 - [Strategy optimization and benchmarking](notebooks/strategies/strategy-optimization-and-benchmarking.ipynb)
+- [Strategy return analysis](notebooks/strategies/strategy-return-analysis.ipynb)
