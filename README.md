@@ -26,6 +26,7 @@ Topics:
 - [Strategy optimization and benchmarking](notebooks/strategies/strategy-optimization-and-benchmarking.ipynb)
 - [Strategy return analysis](notebooks/strategies/strategy-return-analysis.ipynb)
 - [Evaluate Strategy by Sharpe Ratio](notebooks/strategies/evaluate-strategy-sharpe-ratio.ipynb)
+- [Evaluate Strategy by Sortino Ratio](notebooks/strategies/evaluate-strategy-sortino-ratio.ipynb)
 
 ## Certificate
 ![Certificate](assets/imgs/Financial%20Trading%20in%20Python.png)
